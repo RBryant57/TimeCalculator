@@ -1,0 +1,10 @@
+﻿TimeCalculator.Console/bin
+TimeCalculator.Console/obj
+TimeCalculator.Console/TimeCalculator.Console.vbproj.vspscc
+TimeCalculator.Core/bin
+TimeCalculator.Core/obj
+TimeCalculator.v12.suo
+TimeCalculator.vssscc
+TimeCalculator.Core/.vs
+TimeCalculator.Console/.vs
+.vs
